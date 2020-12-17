@@ -1,6 +1,6 @@
-module github.com/nntaoli-project/goex
+module github.com/dllexport/goex
 
-go 1.12
+go 1.15
 
 require (
 	github.com/Kucoin/kucoin-go-sdk v1.2.7
